@@ -17,7 +17,7 @@ Link dataset: [Link](https://drive.google.com/file/d/1fFqLRizk_W9WCtRVKusQclwDU_
 
 - Google Colab, Pandas: thực hiện EDA, preprocessing.
 - Matplotlib, Seaborn: tạo visual trực quan.
-- ScikitLearn: feature scaling, xử lý imbalance, khởi tạo - triển khai - so sánh hiệu năng các model Classification.
+- ScikitLearn: feature scaling, xử lý imbalance (Resampling, SMOTE-ENN), triển khai & so sánh hiệu năng các model Classification.
 
 ## Code
 
