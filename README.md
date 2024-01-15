@@ -19,6 +19,10 @@ Link dataset: [Link](https://drive.google.com/file/d/1fFqLRizk_W9WCtRVKusQclwDU_
 - Matplotlib, Seaborn: tạo visual trực quan.
 - ScikitLearn: feature scaling, xử lý imbalance, khởi tạo - triển khai - so sánh hiệu năng các model Classification.
 
+## Code
+
+File source code `ipynb` xây dựng mô hình [Link](https://github.com/dthcong/Customer-Churn-Prediction/blob/main/Customer_Churn_Prediction.ipynb). 
+
 ## Sample Visualization
 
 1. Tỷ lệ KH ngừng sử dụng Dv:
